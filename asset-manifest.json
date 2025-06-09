@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec3690df.css",
+    "main.js": "/static/js/main.77e6d36a.js",
+    "static/media/vistarecursos.jpg": "/static/media/vistarecursos.dc73f577e370768c91dc.jpg",
+    "index.html": "/index.html",
+    "main.ec3690df.css.map": "/static/css/main.ec3690df.css.map",
+    "main.77e6d36a.js.map": "/static/js/main.77e6d36a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3690df.css",
+    "static/js/main.77e6d36a.js"
+  ]
+}
